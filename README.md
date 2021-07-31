@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArdaSonmezler
 - 👀 I’m interested in Development, UI/UX Design, Blockchain
 - 🌱 I’m currently learning Solidity
-- 📫 How to reach me www.twitter.com/ArdaSonmezler, instagram.com/ardasonmezler, ardasonmezler.com
+- 📫 How to reach me www.twitter.com/ArdaSonmezler , www.instagram.com/ardasonmezler , www.ardasonmezler.com
 
 <!---
 ArdaSonmezler/ArdaSonmezler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
