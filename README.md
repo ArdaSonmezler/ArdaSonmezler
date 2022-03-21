@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ArdaSonmezler</h1>
 
 
-- Hi I'm working **Freelance**
+- I'm working **Freelance**
 
 - 👨‍💻 All of my projects are available at [ardasonmezler.com](ardasonmezler.com)
 
