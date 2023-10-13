@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ArdaSonmezler</h1>
 
 
-- I'm working **Freelance**
+
 
 - 👨‍💻 All of my projects are available at [ardasonmezler.com](ardasonmezler.com)
 
 - 📝 I regularly write articles on [https://medium.com/@ardasonmezlerr](https://medium.com/@ardasonmezlerr)
 
-- 📫 How to reach me **bilgi@ardasonmezler.com**
+- 📫 How to reach me **beratsonmezler@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ardasonmezler/](https://www.linkedin.com/in/ardasonmezler/)
 
